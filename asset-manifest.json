@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quote-App/static/css/main.acf12670.chunk.css",
+    "main.js": "/Quote-App/static/js/main.c735ab5c.chunk.js",
+    "main.js.map": "/Quote-App/static/js/main.c735ab5c.chunk.js.map",
+    "runtime-main.js": "/Quote-App/static/js/runtime-main.f3186b8d.js",
+    "runtime-main.js.map": "/Quote-App/static/js/runtime-main.f3186b8d.js.map",
+    "static/js/2.bceab396.chunk.js": "/Quote-App/static/js/2.bceab396.chunk.js",
+    "static/js/2.bceab396.chunk.js.map": "/Quote-App/static/js/2.bceab396.chunk.js.map",
+    "index.html": "/Quote-App/index.html",
+    "static/css/main.acf12670.chunk.css.map": "/Quote-App/static/css/main.acf12670.chunk.css.map",
+    "static/js/2.bceab396.chunk.js.LICENSE.txt": "/Quote-App/static/js/2.bceab396.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/Quote-App/static/media/nature.52e9f0a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3186b8d.js",
+    "static/js/2.bceab396.chunk.js",
+    "static/css/main.acf12670.chunk.css",
+    "static/js/main.c735ab5c.chunk.js"
+  ]
+}
